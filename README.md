@@ -1,7 +1,3 @@
-Here's the updated GitHub profile description with your new projects and expertise:
-
----
-
 ## Faiz Siddiqui
 
 **Data Science & Machine Learning Enthusiast | Mechanical Engineer Turned Data Scientist**
@@ -28,21 +24,19 @@ I specialize in:
 
 Here are a few of my recent projects:
 
-- **[Brain Tumor Survival Prediction](#)**: Developed a model to predict patient survival using Kaggle datasets.
-- **[NEO Hazard Prediction](#)**: Built a predictive model for assessing near-Earth objects' hazard levels.
-- **[Global Air Quality EDA](#)**: Conducted exploratory data analysis on air quality data from prominent cities.
-- **[Laptop Sales Price Prediction](#)**: Web-scraped and analyzed data to predict laptop sales prices.
-- **[Smartwatch Sales Prediction](#)**: Utilized web-scraped data to forecast smartwatch sales trends.
-- **[Tablet Sales Prediction](#)**: Analyzed web-scraped data to predict tablet sales performance.
+- **[Brain Tumor Survival Prediction](https://www.kaggle.com/code/siddiquifaiznaeem/brain-tumor-survival-time-prediction-0-93-r2score/)**: Developed a model to predict patient survival using Kaggle datasets.
+- **[NEO Hazard Prediction](https://www.kaggle.com/code/siddiquifaiznaeem/guardians-of-the-galaxy-predicting-neo-hazards-w)**: Built a predictive model for assessing near-Earth objects' hazard levels.
+- **[Global Air Quality EDA](https://www.kaggle.com/code/siddiquifaiznaeem/eda-and-insight-on-global-air-quality)**: Conducted exploratory data analysis on air quality data from prominent cities.
+- **[Laptop Sales Price Prediction](https://www.kaggle.com/code/siddiquifaiznaeem/laptop-sales-price-prediction-2024)**: Web-scraped and analyzed data to predict laptop sales prices.
+- **[Smartwatch Sales Prediction](https://www.kaggle.com/code/siddiquifaiznaeem/smartwatch-sales-price-prediction)**: Utilized web-scraped data to forecast smartwatch sales trends.
+- **[Tablet Sales Prediction](https://www.kaggle.com/code/siddiquifaiznaeem/tablet-sales-price-prediction-2024)**: Analyzed web-scraped data to predict tablet sales performance.
 
 ### 🎓 Kaggle Expertise
 
-I have developed expertise in creating and sharing detailed Kaggle notebooks, providing insights, and driving data-driven solutions through my work on various datasets.
+I have developed expertise in creating and sharing detailed Kaggle notebooks, providing insights, and driving data-driven solutions through my work on various datasets. Check out my Kaggle profile for more of my work: [Kaggle Profile](https://www.kaggle.com/siddiquifaiznaeem).
 
 ### 🤝 Let's Connect
 
 I'm always eager to collaborate and explore new opportunities in data science and machine learning. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-siddiqui-90605423a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) for insights, discussions, or potential collaborations.
 
 Let's shape the future with data-driven insights! 🌟
-
----
