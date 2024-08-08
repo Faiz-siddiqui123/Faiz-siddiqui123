@@ -4,12 +4,12 @@
 
 Welcome to my GitHub profile! 🚀 I'm Faiz Siddiqui, a mechanical engineer transitioning into the world of data science and machine learning. With a passion for innovation and problem-solving, I'm dedicated to leveraging my engineering background and newly acquired data science skills to drive impactful solutions.
 
-### 🔍 What I Do
+### 🔍 What I’m Learning
 
-I specialize in:
+I’m currently exploring:
 
-- **Data Analysis**: Utilizing Python libraries like Pandas and NumPy to transform and analyze data.
-- **Machine Learning**: Implementing algorithms and models, from logistic regression to advanced ensemble techniques, to derive actionable insights.
+- **Data Analysis**: Using Python libraries like Pandas and NumPy to transform and analyze data.
+- **Machine Learning**: Learning various algorithms and models, from logistic regression to advanced ensemble techniques, to derive actionable insights.
 - **Visualization**: Creating interactive visualizations with Plotly and Matplotlib to reveal data patterns and trends.
 - **Data Cleaning**: Ensuring accuracy and reliability through meticulous data preparation and transformation.
 - **Web Scraping**: Collecting and analyzing data from various sources using tools like Selenium and BeautifulSoup.
@@ -17,8 +17,16 @@ I specialize in:
 ### 🛠️ Skills & Tools
 
 - **Programming Languages**: Python, SQL
-- **Libraries**: Pandas, NumPy, Scikit-learn, Plotly, Matplotlib, Seaborn
-- **Tools**: Jupyter Notebooks, GitHub, Kaggle
+- **Libraries**: 
+  - ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/e1/Pandas_logo.svg)
+  - ![NumPy](https://upload.wikimedia.org/wikipedia/commons/1/1b/Numpy_logo_2020.svg)
+  - ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo.svg/1920px-Scikit_learn_logo.svg.png)
+  - ![Plotly](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Plotly_logo.svg/2560px-Plotly_logo.svg.png)
+  - ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
+  - ![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
+- **Tools**: Jupyter Notebooks, GitHub, 
+  - [![Kaggle](https://upload.wikimedia.org/wikipedia/commons/e/e5/Kaggle_logo.png)](https://www.kaggle.com/siddiquifaiznaeem)
+  - [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/faiz-siddiqui-90605423a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### 📚 Projects
 
@@ -33,10 +41,12 @@ Here are a few of my recent projects:
 
 ### 🎓 Kaggle Expertise
 
-I have developed expertise in creating and sharing detailed Kaggle notebooks, providing insights, and driving data-driven solutions through my work on various datasets. Check out my Kaggle profile for more of my work: [Kaggle Profile](https://www.kaggle.com/siddiquifaiznaeem).
+I am developing expertise in creating and sharing detailed Kaggle notebooks, providing insights, and driving data-driven solutions through my work on various datasets. Check out my Kaggle profile for more of my work: [Kaggle Profile](https://www.kaggle.com/siddiquifaiznaeem).
 
 ### 🤝 Let's Connect
 
 I'm always eager to collaborate and explore new opportunities in data science and machine learning. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-siddiqui-90605423a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) for insights, discussions, or potential collaborations.
 
 Let's shape the future with data-driven insights! 🌟
+
+
