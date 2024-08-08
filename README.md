@@ -21,7 +21,7 @@ I’m currently exploring:
   - ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/e1/Pandas_logo.svg)
   - ![NumPy](https://upload.wikimedia.org/wikipedia/commons/1/1b/Numpy_logo_2020.svg)
   - ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo.svg/1920px-Scikit_learn_logo.svg.png)
-  - ![Plotly](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Plotly_logo.svg/2560px-Plotly_logo.svg.png)
+  - ![Plotly](https://upload.wikimedia.org/wikipedia/commons/2/2c/Plotly_logo.svg)
   - ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
   - ![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
 - **Tools**: Jupyter Notebooks, GitHub, 
