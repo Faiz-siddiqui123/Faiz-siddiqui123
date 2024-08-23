@@ -2,10 +2,9 @@
 
 **Data Science & Machine Learning Enthusiast | Mechanical Engineer Turned Data Scientist**
 
-<div style="text-align: center; margin-bottom: 20px;">
-    <a href="https://www.linkedin.com/in/faiz-siddiqui1datascientist" target="_blank" style="display: inline-block; background-color: #007bff; color: #fff; text-decoration: none; padding: 10px 20px; border-radius: 10px; margin: 5px;">LinkedIn</a>
-    <a href="https://www.kaggle.com/siddiquifaiznaeem" target="_blank" style="display: inline-block; background-color: #007bff; color: #fff; text-decoration: none; padding: 10px 20px; border-radius: 10px; margin: 5px;">Kaggle</a>
-</div>
+## Follow Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiz-siddiqui1datascientist) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/siddiquifaiznaeem)
 
 Welcome to my GitHub profile! 🚀 I'm Faiz Siddiqui, a mechanical engineer transitioning into the world of data science and machine learning. With a passion for innovation and problem-solving, I'm dedicated to leveraging my engineering background and newly acquired data science skills to drive impactful solutions.
 
