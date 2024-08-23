@@ -1,6 +1,11 @@
-## Faiz Siddiqui
+ ## Faiz Siddiqui
 
 **Data Science & Machine Learning Enthusiast | Mechanical Engineer Turned Data Scientist**
+
+<div style="text-align: center; margin-bottom: 20px;">
+    <a href="https://www.linkedin.com/in/faiz-siddiqui1datascientist" target="_blank" style="display: inline-block; background-color: #007bff; color: #fff; text-decoration: none; padding: 10px 20px; border-radius: 10px; margin: 5px;">LinkedIn</a>
+    <a href="https://www.kaggle.com/siddiquifaiznaeem" target="_blank" style="display: inline-block; background-color: #007bff; color: #fff; text-decoration: none; padding: 10px 20px; border-radius: 10px; margin: 5px;">Kaggle</a>
+</div>
 
 Welcome to my GitHub profile! 🚀 I'm Faiz Siddiqui, a mechanical engineer transitioning into the world of data science and machine learning. With a passion for innovation and problem-solving, I'm dedicated to leveraging my engineering background and newly acquired data science skills to drive impactful solutions.
 
@@ -24,9 +29,7 @@ I’m currently exploring:
   - ![Plotly](https://upload.wikimedia.org/wikipedia/commons/2/2c/Plotly_logo.svg)
   - ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
   - ![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
-- **Tools**: Jupyter Notebooks, GitHub, 
-  - [![Kaggle](https://upload.wikimedia.org/wikipedia/commons/e/e5/Kaggle_logo.png)](https://www.kaggle.com/siddiquifaiznaeem)
-  - [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/faiz-siddiqui-90605423a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Tools**: Jupyter Notebooks, GitHub, Kaggle, LinkedIn
 
 ### 📚 Projects
 
@@ -45,8 +48,9 @@ I am developing expertise in creating and sharing detailed Kaggle notebooks, pro
 
 ### 🤝 Let's Connect
 
-I'm always eager to collaborate and explore new opportunities in data science and machine learning. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-siddiqui-90605423a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) for insights, discussions, or potential collaborations.
+I'm always eager to collaborate and explore new opportunities in data science and machine learning. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-siddiqui1datascientist) for insights, discussions, or potential collaborations.
 
 Let's shape the future with data-driven insights! 🌟
+
 
 
