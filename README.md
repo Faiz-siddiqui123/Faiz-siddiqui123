@@ -20,7 +20,10 @@ I’m currently exploring:
 
 ### 🛠️ Skills & Tools
 
-- **Programming Languages**: Python, SQL
+- **Programming Languages**: 
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="30">
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="30">
+  
 - **Libraries**:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" height="30">
   - <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="30">
@@ -28,7 +31,9 @@ I’m currently exploring:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="Plotly" height="30">
   - <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="30">
   - <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" height="30">
+  
 - **Tools**: Jupyter Notebooks, GitHub, Kaggle, LinkedIn
+
 
 ### 📚 Projects
 
