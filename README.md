@@ -2,7 +2,7 @@
 
 **Data Science & Machine Learning Enthusiast | Mechanical Engineer Turned Data Scientist**
 
-## Follow Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiz-siddiqui1datascientist) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/siddiquifaiznaeem)
 
@@ -21,13 +21,13 @@ I’m currently exploring:
 ### 🛠️ Skills & Tools
 
 - **Programming Languages**: Python, SQL
-- **Libraries**: 
-  - ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/e1/Pandas_logo.svg)
-  - ![NumPy](https://upload.wikimedia.org/wikipedia/commons/1/1b/Numpy_logo_2020.svg)
-  - ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo.svg/1920px-Scikit_learn_logo.svg.png)
-  - ![Plotly](https://upload.wikimedia.org/wikipedia/commons/2/2c/Plotly_logo.svg)
+- **Libraries**:
+  - ![Pandas](https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg)
+  - ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)
+  - ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+  - ![Plotly](https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png)
   - ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
-  - ![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
+  - ![Seaborn](https://seaborn.pydata.org/_images/logo-tall-lightbg.svg)
 - **Tools**: Jupyter Notebooks, GitHub, Kaggle, LinkedIn
 
 ### 📚 Projects
